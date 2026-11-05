@@ -1,3 +1,4 @@
+# Modified for ASDD exam
 provider "local" {}
 
 resource "local_file" "demo" {
